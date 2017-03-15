@@ -1,0 +1,9 @@
+# QR-Inventory
+
+QR Inventory es una aplicación móvil orientada al inventario del mobiliario y equipo de oficina de una empresa en la que muchas veces
+hacer este proceso de manera manual genera errores en el conteo y no es exacto en el inventario de artículos. Los beneficiarios directos 
+tendrán un control más exhaustivo del mobiliario y equipo que se encuentran en un área específica no solo en modo de inventario sino como 
+instrumento para conocer el equipo relacionado a cada área, permitiría el ahorro de personal contratado para hacer este proceso manual, 
+con el apoyo de la aplicación se generaría un código QR para leer Nombre, numero, área, descripción de cada mobiliario y equipo desde un 
+dispositivo móvil.
+La aplicación está orientada a toda empresa pública o privada que maneje el inventario de mobiliario y equipo de oficina.
